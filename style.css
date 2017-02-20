@@ -1,0 +1,36 @@
+.special{
+	background-color: #545454;
+}
+.navbar-brand{
+	color: #67f7e9;
+	background-color: #47244d;
+}
+
+.second{
+	background-image: url("resources/bootstrap/gallery/img_5958.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10%;
+	padding-top: 10%;
+	color: white;
+}
+
+.text{
+	font-family: georgia;
+	font-size: 22px;
+	font-weight: 100;
+	padding: 10%;
+	background-color: #141E30
+}
+
+.third{
+	background-color: purple;
+}
+
+.feedback{
+	text-align: left;
+}
+.footer{
+	background-color: #28062b;
+	color: white;
+}
